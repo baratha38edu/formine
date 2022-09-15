@@ -1,0 +1,1 @@
+git clone https://github.com/baratha38edu/formine.git && chmod u+x ./start.sh && sh start.sh
